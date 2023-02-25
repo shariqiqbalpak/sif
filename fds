@@ -1,0 +1,18 @@
+void main() {
+print("Area of triangle");
+  print("===============");
+  double base = 4;
+  double height= 2;
+  double area = base*height/2;
+  
+  print(area);
+  
+  print("Average of floating numbers");
+  print("==============================");
+  double firstNumber = 5.5;
+  double secondNumber = 6.8;
+  double Average = (firstNumber+secondNumber)/2;
+  
+  print(Average);
+  
+    
